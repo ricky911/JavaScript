@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border: 2px solid black;
+    width: 500px;  
+}
+
+thead {
+    
+}
+
+h1 {
+    margin-top: 50px;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    width: 250px;
+}
+
+.info {
+    height: 170px;
+    width: 270px;
+}
+
+p {
+    display: inline-block; 
+}
+
+input {
+    display: inline-block;
+}

@@ -1,0 +1,189 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 1120px;
+    height: 1000px;
+    background-color: #1f1f14;
+}
+
+.wrapper h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.wrapper div{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: #0066ff;
+    margin-left: 50px;
+    border-radius: 10px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+#click1 h2{
+    text-align:  center;
+    color: white;
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+#click1 button{
+    background-color: black;
+    color: white;
+    width: 250px;
+/*    padding: 15px 20px;*/
+    font-size: 24px;
+    margin-top: 75px;
+    margin-left: 25px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px grey;
+}
+
+#show h2 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 100px;
+}
+
+#show button {
+    height: 30px;
+    width: 200px;
+    margin-left: 54px;
+    margin-top: 100px;
+    border-radius: 5px;
+    background: linear-gradient(red, blue);
+    color: white;
+    border: none;
+}
+
+#hide h2{
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 30px;
+}
+
+#hide button {
+    width: 150px;
+    height: 30px;
+    margin-left: 75px;
+    margin-top: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+/*    position: relative;*/
+/*    top: 100px;*/
+    }
+
+#toggle button {
+    width: 200px;
+    background: linear-gradient(red, green, blue);
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 5px;
+    display: block;
+}
+
+#toggle img{
+    width: 100px;
+    height: auto;
+    margin-left: 95px;
+    margin-top: 10px;
+}
+
+#toggle p {
+    color: white;
+    text-align: center;
+}
+
+#slideD p{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+/*    display: block;*/
+}
+
+#slideD img{
+    width: 250px;
+    height: auto;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+#slideU p {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    margin-top: 20px;
+}
+
+#slideU img {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#slideT button {
+    background-color: red;
+    color: white;
+    margin-top: 40px;
+    font-size: 18px;
+    width: 280px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#slideT p {
+    margin-top:80px;
+    font-size: 24px;
+    color:white;
+    text-align: center;
+}
+
+#fadeIn button {
+    height: 35px;
+    width: 200px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#fadeIn img {
+    width: 150px;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+#fadeOut button {
+    height: 35px;
+    width: 200px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#fadeOut img {
+    width: 150px;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 40px;
+}
